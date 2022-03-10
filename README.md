@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @1archerx
+- 👋 Hi, I’m Elijah
 - 👀 I’m interested in pretty much any kind of coding. Just creating stuff and problem solving.
 - 🌱 I’m currently learning web developement.
 - 💞️ I’m looking to collaborate on ... not sure yet.
